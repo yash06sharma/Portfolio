@@ -1,4 +1,3 @@
-```md id="x7m2qp"
 # Full-Stack Developer | Clean Architecture & Scalable Systems
 
 ### Building Production-Ready Applications with Modern Web Technologies
@@ -21,11 +20,11 @@ I enjoy solving engineering problems related to scalability, reusable architectu
 
 Building scalable, maintainable, and high-performance applications with clean architecture and production-focused engineering practices.
 
-- Production-first development  
-- Backend architecture drives scalability  
-- Maintainability over complexity  
-- Build systems that evolve cleanly  
-- Readable code always wins  
+* Production-first development
+* Backend architecture drives scalability
+* Maintainability over complexity
+* Build systems that evolve cleanly
+* Readable code always wins
 
 <br/>
 
@@ -33,23 +32,23 @@ Building scalable, maintainable, and high-performance applications with clean ar
 
 Focused on modern full-stack technologies, backend architecture, APIs, and scalable application development.
 
-| Layer | Technologies |
-|---|---|
-| Backend Engineering | Laravel • PHP • Node.js • REST APIs |
-| Frontend Development | React • Angular • JavaScript • TailwindCSS |
-| Database Systems | MySQL • MongoDB |
-| Infrastructure & DevOps | Docker • Kubernetes • AWS • Linux • Git |
-| Engineering Practices | API Design • Debugging • Performance Optimization |
+| Layer                   | Technologies                                      |
+| ----------------------- | ------------------------------------------------- |
+| Backend Engineering     | Laravel • PHP • Node.js • REST APIs               |
+| Frontend Development    | React • Angular • JavaScript • TailwindCSS        |
+| Database Systems        | MySQL • MongoDB                                   |
+| Infrastructure & DevOps | Docker • Kubernetes • AWS • Linux • Git           |
+| Engineering Practices   | API Design • Debugging • Performance Optimization |
 
 <br/>
 
 ## ⚙️ Core Focus Areas
 
-- Scalable full-stack applications  
-- Backend architecture & REST APIs  
-- Application optimization & reliability  
-- Maintainable frontend systems  
-- Dockerized & cloud-native development workflows  
+* Scalable full-stack applications
+* Backend architecture & REST APIs
+* Application optimization & reliability
+* Maintainable frontend systems
+* Dockerized & cloud-native development workflows
 
 <br/>
 
@@ -79,7 +78,7 @@ Developed real-time push notification and email notification systems for an HR m
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=laravel,react,angular,nodejs,php,js,mysql,mongodb,docker,kubernetes,aws,linux,git,tailwind" />
+<img src="https://skillicons.dev/icons?i=laravel,react,angular,nodejs,php,js,mysql,mongodb,docker,kubernetes,aws,linux,git,tailwind,vscode,postman" />
 
 </p>
 
@@ -100,4 +99,3 @@ I’m open to collaborating on scalable web applications, backend systems, and m
 <br/>
 
 > Focused on building performant systems and scalable products that deliver real business value.
-```
