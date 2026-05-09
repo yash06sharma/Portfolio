@@ -1,37 +1,46 @@
-````md id="a2k9xp"
-# 🚀 “Full-Stack Engineer | Backend Systems & Scalable Applications”
+````md id="u29x1m"
+# 🚀 “Full-Stack Engineer | Backend-Driven Applications & Scalable Systems”
 
 ## Yash Sharma — Full-Stack Developer | Laravel • React • Angular • Node.js
 
-> “I don’t build projects for screenshots — I build systems designed to scale and remain maintainable.”
+> “I don’t optimize for demos — I focus on systems that remain maintainable as products evolve.”
 
 ---
 
 # 👨‍💻 About Me
 
-I’m a full-stack developer focused on building scalable and maintainable web applications using modern frontend and backend technologies.
+I’m a full-stack developer focused on building scalable web applications and backend-driven systems using modern frontend and backend technologies.
 
-My work sits at the intersection of backend engineering, frontend architecture, API-driven systems, and real-world application development.
+My work sits at the intersection of backend engineering, frontend architecture, API-driven applications, and real-world product development. I spend most of my time improving maintainability, application structure, performance, and reliability across full-stack systems.
 
-I spend most of my time working on backend-heavy applications — improving system structure, application reliability, performance, and maintainability as products evolve.
+I enjoy solving engineering problems involving scalability, reusable architecture, production workflows, and long-term maintainability rather than simply building isolated UI projects.
 
-I value ownership, clean architecture, and systems that continue to remain stable under growth.
+I value ownership, clarity, and systems that continue to remain stable as products grow.
 
 ---
 
 # 🧠 Engineering Philosophy
 
-- Production-first engineering
-- Backend architecture drives scalability
-- Maintainability over unnecessary complexity
-- Build systems that evolve cleanly
-- Readable and structured code always wins
+### Production First
+Applications should be designed for long-term stability, not temporary demos.
+
+### Backend > UI
+Strong backend architecture drives maintainability and scalability.
+
+### Ownership Mindset
+If a system breaks, understanding and fixing the root cause matters.
+
+### Incremental Improvement
+Reliable systems evolve through consistent improvements over time.
+
+### Clarity Over Complexity
+Readable and maintainable code always outlives clever implementations.
 
 ---
 
 # 🧩 Stack & Expertise
 
-| Layer | Technologies |
+| Layer | Tools / Concepts |
 |---|---|
 | Backend | Laravel • PHP • Node.js • REST APIs |
 | Frontend | React • Angular • JavaScript • TailwindCSS |
@@ -41,29 +50,41 @@ I value ownership, clean architecture, and systems that continue to remain stabl
 
 ---
 
-# ⚙️ Engineering in Practice
-
-- Designing scalable backend architectures
-- Building responsive frontend applications
-- Improving application performance and reliability
-- Creating reusable and maintainable systems
-- Containerizing environments using Docker
-
----
-
 # 🔥 Selected Work
 
 ## Portfolio Platform
 
-Responsive developer portfolio focused on performance, accessibility, and clean frontend architecture.
+Responsive developer portfolio focused on frontend performance, accessibility, and maintainable component architecture.
 
 ## Full Stack E-Commerce Application
 
-Backend-driven application with authentication systems, APIs, dashboards, and modular architecture.
+Backend-driven application with authentication systems, REST APIs, dashboards, and modular application structure.
 
 ## Dockerized Development Environment
 
-Containerized development setup for consistent local workflows and deployment environments.
+Containerized local development environments for consistent workflows and deployment reliability.
+
+---
+
+# ⚙️ Engineering in Practice
+
+- Building scalable full-stack applications
+- Designing reusable backend structures
+- Improving application performance and reliability
+- Creating maintainable frontend systems
+- Containerizing environments using Docker
+- Working with APIs, databases, and production workflows
+
+---
+
+# 🧰 Toolbox
+
+```txt
+Laravel      React         Angular
+Node.js      PHP           JavaScript
+MySQL        MongoDB       Docker
+Linux        Git           TailwindCSS
+````
 
 ---
 
@@ -79,17 +100,6 @@ Containerized development setup for consistent local workflows and deployment en
 
 ---
 
-# 🧰 Toolbox
-
-```txt
-Laravel      React         Angular
-Node.js      PHP           JavaScript
-MySQL        MongoDB       Docker
-Linux        Git           TailwindCSS
-````
-
----
-
 # 📫 Connect
 
 Portfolio → https://devyashsharma.vercel.app/
@@ -97,6 +107,12 @@ Portfolio → https://devyashsharma.vercel.app/
 GitHub → https://github.com/yash06sharma
 
 LinkedIn → https://linkedin.com/in/your-linkedin
+
+---
+
+# 🎓 Education
+
+Bachelor’s degree in Computer Science
 
 ---
 
