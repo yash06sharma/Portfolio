@@ -61,7 +61,7 @@ These are some of the systems and applications I’ve built using scalable archi
 A full-featured eCommerce platform with Stripe payment integration, authentication systems, admin dashboard, and scalable backend architecture.
 
 <p>
-<img src="https://your-hosted-link/increase.svg" width="14" /> Live Site</p>
+<img src="/assets/increase.svg" width="14" /> Live Site</p>
 
 <!-- <br/> -->
 
@@ -70,7 +70,7 @@ A full-featured eCommerce platform with Stripe payment integration, authenticati
 Developed a scalable admin dashboard for managing leads, customer interactions, analytics, and automated workflows for an AI-powered customer engagement platform.
 
 <p>
-<img src="https://your-hosted-link/increase.svg" width="14" /> Live Site
+<img src="/assets/increase.svg" width="14" /> Live Site
 </p>
 
 <!-- <br/> -->
@@ -80,7 +80,7 @@ Developed a scalable admin dashboard for managing leads, customer interactions, 
 Developed real-time push notification and email notification systems for an HR management platform focused on workflow automation and employee management.
 
 <p>
-<img src="https://your-hosted-link/increase.svg" width="14" /> Live Site</p>
+<img src="/assets/increase.svg" width="14" /> Live Site</p>
 
 ---
 
