@@ -1,36 +1,37 @@
-# 🚀 “Full-Stack Engineer | Backend-Driven Applications & Scalable Systems”
+```md id="cm6w4f"
+# Yash Sharma
 
-## Yash Sharma — Full-Stack Developer | Laravel • React • Angular • Node.js
+### Full-Stack Developer • Laravel • React • Angular • Node.js
 
-> “I don’t optimize for demos — I focus on systems that remain maintainable as products evolve.”
+> “Building scalable web applications with clean architecture, optimized performance, and production-ready development practices.”
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 I’m a full-stack developer focused on building scalable web applications and backend-driven systems using modern frontend and backend technologies.
 
-My work sits at the intersection of backend engineering, frontend architecture, API-driven applications, and real-world product development.
+My work involves backend engineering, frontend architecture, API-driven applications, and improving maintainability across full-stack systems.
 
-I spend most of my time improving maintainability, application structure, performance, and reliability across full-stack systems.
-
-I enjoy solving engineering problems involving scalability, reusable architecture, production workflows, and long-term maintainability rather than simply building isolated UI projects.
-
-I value ownership, clarity, and systems that continue to remain stable as products grow.
+I enjoy solving engineering problems involving scalability, reusable architecture, production workflows, and application reliability.
 
 ---
 
-# 🧠 Engineering Philosophy
+## 🧠 How I Build Software
 
-- Production First — Applications should be designed for long-term stability.
-- Backend > UI — Strong backend architecture drives scalability.
-- Ownership Mindset — Fixing root causes matters more than quick patches.
-- Incremental Improvement — Reliable systems evolve over time.
-- Clarity Over Complexity — Readable code always outlives clever code.
+Building scalable, maintainable, and production-ready applications designed for real-world business growth.
+
+- Production-first development
+- Backend architecture drives scalability
+- Maintainability over complexity
+- Build systems that evolve cleanly
+- Readable code always wins
 
 ---
 
-# 🧩 Stack & Expertise
+## 🧩 Technologies & Core Expertise
+
+Focused on modern full-stack technologies, backend architecture, APIs, and scalable application development.
 
 | Layer | Tools / Concepts |
 |---|---|
@@ -42,55 +43,64 @@ I value ownership, clarity, and systems that continue to remain stable as produc
 
 ---
 
-# ⚙️ Engineering in Practice
+## ⚙️ What I Focus On
+
+Creating high-performance systems with clean architecture, optimized workflows, and long-term maintainability.
 
 - Building scalable full-stack applications
 - Designing reusable backend structures
 - Improving application performance and reliability
 - Creating maintainable frontend systems
 - Containerizing environments using Docker
-- Working with APIs, databases, and production workflows
 
 ---
 
-# 🔥 Selected Work
+## 🔥 Featured Work & Scalable Projects
+
+These are some of the applications and systems I’ve built to solve real development challenges using scalable architecture and modern technologies.
 
 ### Portfolio Platform
-Responsive developer portfolio focused on frontend performance, accessibility, and maintainable component architecture.
+Responsive developer portfolio focused on frontend performance and maintainable architecture.
 
 ### Full Stack E-Commerce Application
-Backend-driven application with authentication systems, REST APIs, dashboards, and modular application structure.
+Backend-driven application with authentication systems, REST APIs, and modular architecture.
 
 ### Dockerized Development Environment
-Containerized local development environments for consistent workflows and deployment reliability.
+Containerized local development setup for reliable workflows and deployments.
 
 ---
 
-# 🧰 Toolbox
+## 🧰 Toolbox
 
-<p>
+<p align="left">
 
-Laravel • React • Angular • Node.js • PHP • JavaScript • MySQL • MongoDB • Docker • Linux • Git • TailwindCSS
+<img src="https://skillicons.dev/icons?i=laravel,react,angular,nodejs,php,js,mysql,mongodb,docker,linux,git,tailwind" />
 
 </p>
 
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=yash06sharma&show_icons=true&hide_border=true&theme=github_dark"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=yash06sharma&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"/>
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash06sharma&layout=compact&hide_border=true&theme=github_dark"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash06sharma&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000"/>
+
+</p>
+
+<p align="center">
+
+<img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=yash06sharma&theme=github-dark&hide_border=true&background=00000000"/>
 
 </p>
 
 ---
 
-# 📫 Connect
+## 📫 Connect
 
-If you’re building something that needs to last, not just launch, feel free to reach out.
+If you’re building something meaningful, scalable, and production-ready, feel free to reach out.
 
 Portfolio → https://devyashsharma.vercel.app/
 
@@ -100,10 +110,11 @@ LinkedIn → https://linkedin.com/in/your-linkedin
 
 ---
 
-# 🎓 Education
+## 🎓 Education
 
 Bachelor’s Degree in Computer Science
 
 ---
 
-> “Build systems that remain reliable long after deployment.”
+> “Helping businesses build scalable, reliable, and modern applications designed for long-term growth.”
+```
