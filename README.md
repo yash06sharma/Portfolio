@@ -1,84 +1,80 @@
-```md id="cm6w4f"
-# Yash Sharma
+# Full-Stack Developer | Clean Architecture & Scalable Systems
 
-### Full-Stack Developer • Laravel • React • Angular • Node.js
+### Building Production-Ready Applications with Modern Web Technologies
 
-> “Building scalable web applications with clean architecture, optimized performance, and production-ready development practices.”
+> Delivering scalable and performance-driven applications with a strong focus on clean architecture, maintainability, and real-world reliability.
 
----
+<br/>
 
 ## 👨‍💻 About Me
 
-I’m a full-stack developer focused on building scalable web applications and backend-driven systems using modern frontend and backend technologies.
+I’m a full-stack developer focused on building scalable applications and backend-driven systems using modern frontend and backend technologies.
 
-My work involves backend engineering, frontend architecture, API-driven applications, and improving maintainability across full-stack systems.
+My work involves backend engineering, frontend architecture, API-driven development, and improving maintainability across production-style applications.
 
-I enjoy solving engineering problems involving scalability, reusable architecture, production workflows, and application reliability.
+I enjoy solving engineering problems related to scalability, reusable architecture, system reliability, and long-term maintainability.
 
----
+<br/>
 
-## 🧠 How I Build Software
+## 🧠 Development Approach
 
-Building scalable, maintainable, and production-ready applications designed for real-world business growth.
+Building scalable, maintainable, and high-performance applications with clean architecture and production-focused engineering practices.
 
-- Production-first development
-- Backend architecture drives scalability
-- Maintainability over complexity
-- Build systems that evolve cleanly
-- Readable code always wins
+* Production-first development
+* Backend architecture drives scalability
+* Maintainability over complexity
+* Build systems that evolve cleanly
+* Readable code always wins
 
----
+<br/>
 
-## 🧩 Technologies & Core Expertise
+## ⚙️ Core Focus Areas
 
-Focused on modern full-stack technologies, backend architecture, APIs, and scalable application development.
+* Scalable full-stack applications
+* Backend architecture & REST APIs
+* Application optimization & reliability
+* Maintainable frontend systems
+* Dockerized & cloud-native development workflows
 
-| Layer | Tools / Concepts |
-|---|---|
-| Backend | Laravel • PHP • Node.js • REST APIs |
-| Frontend | React • Angular • JavaScript • TailwindCSS |
-| Databases | MySQL • MongoDB |
-| Infrastructure | Docker • Linux • Git |
-| Development | API Design • Debugging • Performance Optimization |
-
----
-
-## ⚙️ What I Focus On
-
-Creating high-performance systems with clean architecture, optimized workflows, and long-term maintainability.
-
-- Building scalable full-stack applications
-- Designing reusable backend structures
-- Improving application performance and reliability
-- Creating maintainable frontend systems
-- Containerizing environments using Docker
-
----
+<br/>
 
 ## 🔥 Featured Work & Scalable Projects
 
-These are some of the applications and systems I’ve built to solve real development challenges using scalable architecture and modern technologies.
+These are some of the systems and applications I’ve built using scalable architecture and modern development practices.
 
-### Portfolio Platform
-Responsive developer portfolio focused on frontend performance and maintainable architecture.
+### eEndorsement
 
-### Full Stack E-Commerce Application
-Backend-driven application with authentication systems, REST APIs, and modular architecture.
+A full-featured eCommerce platform with Stripe payment integration, authentication systems, admin dashboard, and scalable backend architecture.
 
-### Dockerized Development Environment
-Containerized local development setup for reliable workflows and deployments.
+🔗 Project Link → https://your-project-link.com
 
----
+<br/>
+
+### KeepMe Admin Panel
+
+Developed a scalable admin dashboard for managing leads, customer interactions, analytics, and automated workflows for an AI-powered customer engagement platform.
+
+🔗 Project Link → https://your-project-link.com
+
+<br/>
+
+### HR Management Platform
+
+Developed real-time push notification and email notification systems for an HR management platform focused on workflow automation and employee management.
+
+🔗 Project Link → https://your-project-link.com
+
+<br/>
 
 ## 🧰 Toolbox
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=laravel,react,angular,nodejs,php,js,mysql,mongodb,docker,linux,git,tailwind" />
+<img src="https://skillicons.dev/icons?i=laravel,react,angular,nodejs,php,js,mysql,mongodb,docker,kubernetes,aws,linux,git,tailwind,vscode,postman" />
 
 </p>
 
----
+<br/>
 
 ## 📈 GitHub Activity
 
@@ -96,25 +92,17 @@ Containerized local development setup for reliable workflows and deployments.
 
 </p>
 
----
+<br/>
 
 ## 📫 Connect
 
-If you’re building something meaningful, scalable, and production-ready, feel free to reach out.
+I’m open to collaborating on scalable web applications, backend systems, and modern full-stack projects.
 
-Portfolio → https://devyashsharma.vercel.app/
+* 🌐 Portfolio → https://devyashsharma.vercel.app/
+* 💻 GitHub → https://github.com/yash06sharma
+* 📧 Email → [yourmail@example.com](mailto:yourmail@example.com)
+* 💼 LinkedIn → https://linkedin.com/in/your-linkedin
 
-GitHub → https://github.com/yash06sharma
+<br/>
 
-LinkedIn → https://linkedin.com/in/your-linkedin
-
----
-
-## 🎓 Education
-
-Bachelor’s Degree in Computer Science
-
----
-
-> “Helping businesses build scalable, reliable, and modern applications designed for long-term growth.”
-```
+> Open to freelance opportunities, collaborations, and building scalable products that solve real business problems.
