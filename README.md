@@ -1,3 +1,4 @@
+```md id="x7m2qp"
 # Full-Stack Developer | Clean Architecture & Scalable Systems
 
 ### Building Production-Ready Applications with Modern Web Technologies
@@ -20,11 +21,11 @@ I enjoy solving engineering problems related to scalability, reusable architectu
 
 Building scalable, maintainable, and high-performance applications with clean architecture and production-focused engineering practices.
 
-* Production-first development
-* Backend architecture drives scalability
-* Maintainability over complexity
-* Build systems that evolve cleanly
-* Readable code always wins
+- Production-first development  
+- Backend architecture drives scalability  
+- Maintainability over complexity  
+- Build systems that evolve cleanly  
+- Readable code always wins  
 
 <br/>
 
@@ -32,23 +33,23 @@ Building scalable, maintainable, and high-performance applications with clean ar
 
 Focused on modern full-stack technologies, backend architecture, APIs, and scalable application development.
 
-| Layer                   | Technologies                                      |
-| ----------------------- | ------------------------------------------------- |
-| Backend Engineering     | Laravel • PHP • Node.js • REST APIs               |
-| Frontend Development    | React • Angular • JavaScript • TailwindCSS        |
-| Database Systems        | MySQL • MongoDB                                   |
-| Infrastructure & DevOps | Docker • Kubernetes • AWS • Linux • Git           |
-| Engineering Practices   | API Design • Debugging • Performance Optimization |
+| Layer | Technologies |
+|---|---|
+| Backend Engineering | Laravel • PHP • Node.js • REST APIs |
+| Frontend Development | React • Angular • JavaScript • TailwindCSS |
+| Database Systems | MySQL • MongoDB |
+| Infrastructure & DevOps | Docker • Kubernetes • AWS • Linux • Git |
+| Engineering Practices | API Design • Debugging • Performance Optimization |
 
 <br/>
 
 ## ⚙️ Core Focus Areas
 
-* Scalable full-stack applications
-* Backend architecture & REST APIs
-* Application optimization & reliability
-* Maintainable frontend systems
-* Dockerized & cloud-native development workflows
+- Scalable full-stack applications  
+- Backend architecture & REST APIs  
+- Application optimization & reliability  
+- Maintainable frontend systems  
+- Dockerized & cloud-native development workflows  
 
 <br/>
 
@@ -56,19 +57,19 @@ Focused on modern full-stack technologies, backend architecture, APIs, and scala
 
 These are some of the systems and applications I’ve built using scalable architecture and modern development practices.
 
-### [eEndorsement](https://your-project-link.com)
+### eEndorsement <a href="https://your-project-link.com" target="_blank">🔗</a>
 
 A full-featured eCommerce platform with Stripe payment integration, authentication systems, admin dashboard, and scalable backend architecture.
 
 <br/>
 
-### [KeepMe Admin Panel](https://your-project-link.com)
+### KeepMe Admin Panel <a href="https://your-project-link.com" target="_blank">🔗</a>
 
 Developed a scalable admin dashboard for managing leads, customer interactions, analytics, and automated workflows for an AI-powered customer engagement platform.
 
 <br/>
 
-### [HR Management Platform](https://your-project-link.com)
+### HR Management Platform <a href="https://your-project-link.com" target="_blank">🔗</a>
 
 Developed real-time push notification and email notification systems for an HR management platform focused on workflow automation and employee management.
 
@@ -78,9 +79,17 @@ Developed real-time push notification and email notification systems for an HR m
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=laravel,react,angular,nodejs,php,js,mysql,mongodb,docker,kubernetes,aws,linux,git" />
+<img src="https://skillicons.dev/icons?i=laravel,react,angular,nodejs,php,js,mysql,mongodb,docker,kubernetes,aws,linux,git,tailwind" />
 
 </p>
+
+<br/>
+
+## 🎓 Education
+
+Master’s in Computer Application
+
+Focused on software engineering, backend systems, databases, application development, and scalable system design.
 
 <br/>
 
@@ -88,11 +97,7 @@ Developed real-time push notification and email notification systems for an HR m
 
 I’m open to collaborating on scalable web applications, backend systems, and modern full-stack projects.
 
-* 🌐 Portfolio → https://devyashsharma.vercel.app/
-* 💻 GitHub → https://github.com/yash06sharma
-* 📧 Email → [yourmail@example.com](mailto:yourmail@example.com)
-* 💼 LinkedIn → https://linkedin.com/in/your-linkedin
-
 <br/>
 
-> Open to freelance opportunities, collaborations, and building scalable products that solve real business problems.
+> Focused on building performant systems and scalable products that deliver real business value.
+```
