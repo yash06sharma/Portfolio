@@ -28,6 +28,20 @@ Building scalable, maintainable, and high-performance applications with clean ar
 
 <br/>
 
+## 🧩 Technologies & Core Expertise
+
+Focused on modern full-stack technologies, backend architecture, APIs, and scalable application development.
+
+| Layer                   | Technologies                                      |
+| ----------------------- | ------------------------------------------------- |
+| Backend Engineering     | Laravel • PHP • Node.js • REST APIs               |
+| Frontend Development    | React • Angular • JavaScript • TailwindCSS        |
+| Database Systems        | MySQL • MongoDB                                   |
+| Infrastructure & DevOps | Docker • Kubernetes • AWS • Linux • Git           |
+| Engineering Practices   | API Design • Debugging • Performance Optimization |
+
+<br/>
+
 ## ⚙️ Core Focus Areas
 
 * Scalable full-stack applications
@@ -42,27 +56,21 @@ Building scalable, maintainable, and high-performance applications with clean ar
 
 These are some of the systems and applications I’ve built using scalable architecture and modern development practices.
 
-### eEndorsement
+### [eEndorsement](https://your-project-link.com)
 
 A full-featured eCommerce platform with Stripe payment integration, authentication systems, admin dashboard, and scalable backend architecture.
 
-🔗 Project Link → https://your-project-link.com
-
 <br/>
 
-### KeepMe Admin Panel
+### [KeepMe Admin Panel](https://your-project-link.com)
 
 Developed a scalable admin dashboard for managing leads, customer interactions, analytics, and automated workflows for an AI-powered customer engagement platform.
 
-🔗 Project Link → https://your-project-link.com
-
 <br/>
 
-### HR Management Platform
+### [HR Management Platform](https://your-project-link.com)
 
 Developed real-time push notification and email notification systems for an HR management platform focused on workflow automation and employee management.
-
-🔗 Project Link → https://your-project-link.com
 
 <br/>
 
@@ -70,25 +78,7 @@ Developed real-time push notification and email notification systems for an HR m
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=laravel,react,angular,nodejs,php,js,mysql,mongodb,docker,kubernetes,aws,linux,git,tailwind,vscode,postman" />
-
-</p>
-
-<br/>
-
-## 📈 GitHub Activity
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=yash06sharma&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash06sharma&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000"/>
-
-</p>
-
-<p align="center">
-
-<img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=yash06sharma&theme=github-dark&hide_border=true&background=00000000"/>
+<img src="https://skillicons.dev/icons?i=laravel,react,angular,nodejs,php,js,mysql,mongodb,docker,kubernetes,aws,linux,git" />
 
 </p>
 
