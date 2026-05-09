@@ -4,7 +4,7 @@
 
 > Delivering scalable and performance-driven applications with a strong focus on clean architecture, maintainability, and real-world reliability.
 
-<br/>
+---
 
 ## 👨‍💻 About Me
 
@@ -14,7 +14,7 @@ My work involves backend engineering, frontend architecture, API-driven developm
 
 I enjoy solving engineering problems related to scalability, reusable architecture, system reliability, and long-term maintainability.
 
-<br/>
+---
 
 ## 🧠 Development Approach
 
@@ -26,7 +26,7 @@ Building scalable, maintainable, and high-performance applications with clean ar
 * Build systems that evolve cleanly
 * Readable code always wins
 
-<br/>
+---
 
 ## 🧩 Technologies & Core Expertise
 
@@ -40,7 +40,7 @@ Focused on modern full-stack technologies, backend architecture, APIs, and scala
 | Infrastructure & DevOps | Docker • Kubernetes • AWS • Linux • Git           |
 | Engineering Practices   | API Design • Debugging • Performance Optimization |
 
-<br/>
+---
 
 ## ⚙️ Core Focus Areas
 
@@ -50,29 +50,41 @@ Focused on modern full-stack technologies, backend architecture, APIs, and scala
 * Maintainable frontend systems
 * Dockerized & cloud-native development workflows
 
-<br/>
+---
 
 ## 🔥 Featured Work & Scalable Projects
 
 These are some of the systems and applications I’ve built using scalable architecture and modern development practices.
 
-### eEndorsement <a href="https://your-project-link.com" target="_blank">🔗</a>
+### eEndorsement
 
 A full-featured eCommerce platform with Stripe payment integration, authentication systems, admin dashboard, and scalable backend architecture.
 
+<p>
+<a href="https://your-project-link.com">View Project</a>
+</p>
+
 <br/>
 
-### KeepMe Admin Panel <a href="https://your-project-link.com" target="_blank">🔗</a>
+### KeepMe Admin Panel
 
 Developed a scalable admin dashboard for managing leads, customer interactions, analytics, and automated workflows for an AI-powered customer engagement platform.
 
+<p>
+<a href="https://your-project-link.com">View Project</a>
+</p>
+
 <br/>
 
-### HR Management Platform <a href="https://your-project-link.com" target="_blank">🔗</a>
+### HR Management Platform
 
 Developed real-time push notification and email notification systems for an HR management platform focused on workflow automation and employee management.
 
-<br/>
+<p>
+<a href="https://your-project-link.com">View Project</a>
+</p>
+
+---
 
 ## 🧰 Toolbox
 
@@ -82,7 +94,7 @@ Developed real-time push notification and email notification systems for an HR m
 
 </p>
 
-<br/>
+---
 
 ## 🎓 Education
 
@@ -90,12 +102,12 @@ Master’s in Computer Application
 
 Focused on software engineering, backend systems, databases, application development, and scalable system design.
 
-<br/>
+---
 
 ## 📫 Connect
 
 I’m open to collaborating on scalable web applications, backend systems, and modern full-stack projects.
 
-<br/>
+---
 
 > Focused on building performant systems and scalable products that deliver real business value.
