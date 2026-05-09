@@ -1,158 +1,90 @@
-````md id="7m0tq2"
-<div align="center">
+````md id="c0k2fd"
+<h1 align="center">Hey 👋, I'm Yash Sharma</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0EA5E9&height=220&section=header&text=Yash%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Laravel%20•%20React%20•%20Angular&descAlignY=58"/>
+<p align="center">
+Full Stack Developer focused on building scalable, clean, and modern web applications.
+</p>
 
 <br/>
 
-<a href="https://github.com/yash06sharma">
-<img src="https://img.shields.io/github/followers/yash06sharma?style=for-the-badge&logo=github&labelColor=0f172a&color=0ea5e9"/>
-</a>
+<div align="center">
 
-<a href="https://devyashsharma.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-0ea5e9?style=for-the-badge&logo=vercel&labelColor=0f172a"/>
-</a>
-
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&labelColor=0f172a"/>
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Building+Scalable+Applications;Full+Stack+Web+Developer;Clean+Architecture+%7C+Modern+UI;Always+Learning+New+Technologies"/>
+[Portfolio](https://devyashsharma.vercel.app/) •
+[LinkedIn](https://linkedin.com/in/your-linkedin) •
+[GitHub](https://github.com/yash06sharma)
 
 </div>
 
 ---
 
-# 💫 About Me
+## About
 
-```javascript
-const yash = {
-    role: "Full Stack Developer",
-    
-    expertise: [
-        "Laravel",
-        "React",
-        "Angular",
-        "Node.js"
-    ],
+I’m a Full Stack Developer specializing in modern web technologies with experience in building responsive frontend applications and scalable backend systems.
 
-    currentlyLearning: [
-        "Docker",
-        "DevOps",
-        "System Design"
-    ],
+I enjoy creating products that are clean, efficient, and production-ready while continuously exploring better development practices and system design.
 
-    focus: "Building scalable and production-ready applications",
+---
 
-    motto: "Code clean. Build smart. Scale fast."
-};
+## Tech Stack
+
+```txt
+Frontend    React • Angular • JavaScript • TailwindCSS
+
+Backend     Laravel • Node.js • PHP • Express.js
+
+Database    MySQL • MongoDB
+
+Tools       Docker • Git • Linux • Postman
 ````
 
 ---
 
-# ⚒️ Tech Stack
+## Current Focus
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,angular,js,ts,html,css,tailwind" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,php,express,mysql,mongodb" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman" />
-
-</div>
+* Building scalable full stack applications
+* Improving DevOps & Docker workflows
+* Writing cleaner and maintainable architecture
+* Performance optimization & UI refinement
 
 ---
 
-# 📊 GitHub Analytics
+## Featured Work
 
-<div align="center">
+### Portfolio Website
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yash06sharma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+Modern developer portfolio built with React and TailwindCSS.
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash06sharma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+### E-Commerce Platform
 
-</div>
+Full stack application with authentication, APIs, dashboard, and payment integration.
 
-<br/>
+### Dockerized Applications
 
-<div align="center">
-
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=yash06sharma&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
+Containerized development environments using Docker and Compose.
 
 ---
 
-# 🚀 What I Do
+## GitHub Stats
 
-✨ Build scalable full stack applications
-✨ Create responsive and modern user interfaces
-✨ Design secure backend architectures
-✨ Work with REST APIs and database systems
-✨ Containerize applications using Docker
+<p align="center">
 
----
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=yash06sharma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
-# 🌟 Featured Projects
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash06sharma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
-## 🌐 Portfolio Website
-
-Personal portfolio showcasing projects, skills, and technologies using React & TailwindCSS.
-
-## 🛒 E-Commerce Application
-
-Complete full stack solution with authentication, admin dashboard, APIs, and payment integration.
-
-## 🐳 Dockerized Development Environment
-
-Containerized applications using Docker & Docker Compose for consistent deployments.
+</p>
 
 ---
 
-# 📈 Contribution Graph
+## Connect
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yash06sharma&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
-
-</div>
+* Portfolio → https://devyashsharma.vercel.app/
+* GitHub → https://github.com/yash06sharma
+* LinkedIn → https://linkedin.com/in/your-linkedin
 
 ---
 
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/yash06sharma">
-<img src="https://skillicons.dev/icons?i=github" width="55"/>
-</a>
-
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
-</a>
-
-<a href="https://devyashsharma.vercel.app/">
-<img src="https://skillicons.dev/icons?i=vercel" width="55"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=yash06sharma&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
-
-<br/><br/>
-
-### ⚡ "Building modern applications with clean architecture and scalable solutions."
-
-</div>
+<p align="center">
+<i>Code clean. Build smart. Keep improving.</i>
+</p>
 ```
