@@ -61,28 +61,26 @@ These are some of the systems and applications I’ve built using scalable archi
 A full-featured eCommerce platform with Stripe payment integration, authentication systems, admin dashboard, and scalable backend architecture.
 
 <p>
-<a href="https://your-project-link.com">View Project</a>
-</p>
+<img src="https://your-hosted-link/increase.svg" width="14" /> Live Site</p>
 
-<br/>
+<!-- <br/> -->
 
 ### KeepMe Admin Panel
 
 Developed a scalable admin dashboard for managing leads, customer interactions, analytics, and automated workflows for an AI-powered customer engagement platform.
 
 <p>
-<a href="https://your-project-link.com">View Project</a>
+<img src="https://your-hosted-link/increase.svg" width="14" /> Live Site
 </p>
 
-<br/>
+<!-- <br/> -->
 
 ### HR Management Platform
 
 Developed real-time push notification and email notification systems for an HR management platform focused on workflow automation and employee management.
 
 <p>
-<a href="https://your-project-link.com">View Project</a>
-</p>
+<img src="https://your-hosted-link/increase.svg" width="14" /> Live Site</p>
 
 ---
 
@@ -90,7 +88,7 @@ Developed real-time push notification and email notification systems for an HR m
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=laravel,react,angular,nodejs,php,js,mysql,mongodb,docker,kubernetes,aws,linux,git,tailwind,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=laravel,react,angular,nodejs,php,js,mysql,mongodb,docker,kubernetes,aws,linux,git,tailwind" />
 
 </p>
 
@@ -107,6 +105,8 @@ Focused on software engineering, backend systems, databases, application develop
 ## 📫 Connect
 
 I’m open to collaborating on scalable web applications, backend systems, and modern full-stack projects.
+Feel free to get in touch via email for opportunities or collaborations.
+Email: 06yashsharma@gmail.com 
 
 ---
 
