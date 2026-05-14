@@ -88,8 +88,6 @@ Developed real-time push notification and email notification systems for an HR m
 
 Public repositories showcased here are selective representations of my engineering approach, system design practices, and development standards. They are intended to reflect architectural thinking, scalability considerations, maintainable code structure, and production-oriented development workflows.
 
-A significant portion of the production systems, enterprise platforms, and commercial applications I have contributed to are client-owned, privately maintained, or developed under non-disclosure agreements (NDA), and therefore cannot be publicly shared.
-
 ---
 
 ## 🧰 Toolbox
