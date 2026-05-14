@@ -84,6 +84,21 @@ Developed real-time push notification and email notification systems for an HR m
 
 ---
 
+## 📂 GitHub & Engineering Work
+
+Public repositories here are representative, not exhaustive. They exist to demonstrate engineering approach, application structure, architecture decisions, and scalability practices — not polished commercial products.
+
+Most production systems and enterprise applications I’ve worked on are client-owned, private, or developed under NDA agreements.
+
+### 🔗 GitHub Profile
+
+<p>
+  <img src="/assets/increase.svg" width="14" />
+  <a href="https://github.com/yash06sharma">Visit GitHub</a>
+</p>
+
+---
+
 ## 🧰 Toolbox
 
 <p align="left">
