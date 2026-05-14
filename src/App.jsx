@@ -113,7 +113,7 @@ export default function App() {
 
           <div className="socials">
             <a
-              href="https://github.com/yash06sharma"
+              href="https://github.com/YSHSHMA"
               target="_blank"
               rel="noopener noreferrer"
             >
