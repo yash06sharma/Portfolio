@@ -106,22 +106,4 @@ Email: 06yashsharma@gmail.com
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YSHSHMA&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=YSHSHMA&theme=github-dark&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YSHSHMA&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
----
-
 > Focused on building performant systems and scalable products that deliver real business value.
