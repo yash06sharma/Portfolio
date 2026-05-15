@@ -16,15 +16,15 @@ I enjoy solving engineering problems related to scalability, reusable architectu
 
 ---
 
-## 🧠 Development Approach
+## 🛠️ Scalable Engineering Approach
 
-Building scalable, maintainable, and high-performance applications with clean architecture and production-focused engineering practices.
+Building scalable, maintainable, and production-ready applications with a strong focus on clean architecture, backend systems, performance optimization, and long-term reliability.
 
-* Production-first development
-* Backend architecture drives scalability
-* Maintainability over complexity
-* Build systems that evolve cleanly
-* Readable code always wins
+- Scalable full-stack application development  
+- Clean and maintainable architecture  
+- Backend systems & REST API engineering  
+- Performance optimization and debugging  
+- Cloud-native & Dockerized workflows
 
 ---
 
@@ -39,16 +39,6 @@ Focused on modern full-stack technologies, backend architecture, APIs, and scala
 | Database Systems        | MySQL • MongoDB                                   |
 | Infrastructure & DevOps | Docker • Kubernetes • AWS • Linux • Git           |
 | Engineering Practices   | API Design • Debugging • Performance Optimization |
-
----
-
-## ⚙️ Core Focus Areas
-
-* Scalable full-stack applications
-* Backend architecture & REST APIs
-* Application optimization & reliability
-* Maintainable frontend systems
-* Dockerized & cloud-native development workflows
 
 ---
 
